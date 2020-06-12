@@ -1,0 +1,3 @@
+[submodule "ui-kit-simulator"]
+	path = ui-kit-simulator
+	url = https://github.com/arendondiosa/ui-kit-simulator.git
